@@ -9,5 +9,7 @@ LilTerror11/LilTerror11 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+um for the reccord i duno why i did this... just why... i duno what i was thinking this doesn't seem like me
+
 <p> HELLO I AM A ALIEN FROM PLANET PIG AND TINY TERRO </p>
 <h1>DON'T DIE!</h1>
