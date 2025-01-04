@@ -13,3 +13,6 @@ um for the reccord i duno why i did this... just why... i duno what i was thinki
 
 <p> HELLO I AM A ALIEN FROM PLANET PIG AND TINY TERRO </p>
 <h1>DON'T DIE!</h1>
+
+
+What did i do to this, what went through my head, if you read this, un read it right away, the whole readme.md
