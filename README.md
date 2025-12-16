@@ -4,7 +4,7 @@
 - Hi im LilTerror11
 - My main programing language is `python`, and i've done a bit of MC Datapacks (`mcfunction`), and messed around with a few other programing languages
 ### Here is the list
-- Python
+- Python (by far the most)
 - mcfunction
 - gdscript
 - gdshader (godot shader language, don't know what it's actualy called)
