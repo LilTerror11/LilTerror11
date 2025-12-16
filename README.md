@@ -1,18 +1,22 @@
-- 👋 Hi, I’m @LilTerror11
-- 👀 I’m interested in ... *laughs* what is this for
-- 🌱 I’m currently learning ... *eye roll* im learning life duh
-- 💞️ I’m looking to collaborate on ... *smaks pc* EMOTINAL DAMAGE
-- 📫 How to reach me ... *eye roll* reach your hand out and reach for me
+# It's Official!
+## Im finaly over my README.md so im fixing it
 
-<!---
-LilTerror11/LilTerror11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi im LilTerror11
+- My main programing language is `python`, and i've done a bit of MC Datapacks (`mcfunction`), and messed around with a few other programing languages
+### Here is the list
+- Python
+- mcfunction
+- gdscript
+- gdshader (godot shader language, don't know what it's actualy called)
+- Java Script
+- HTML
+- CSS
+- Java
+- A little bit in some of the Cs (like the basics, loops printing, variables that kinda stuff)
 
-um for the reccord i duno why i did this... just why... i duno what i was thinking this doesn't seem like me
-
-<p> HELLO I AM A ALIEN FROM PLANET PIG AND TINY TERRO </p>
-<h1>DON'T DIE!</h1>
-
-
-What did i do to this, what went through my head, if you read this, un read it right away, the whole readme.md
+### I have ADHD so i don't normaly finish projects
+Here are a few i know i have on here
+### Chess Engine
+Basicly a chess base in python, this is somewhat close, it just doesn't have all the events done
+### Some webpages and stuff
+I have a few github-pages webpages on here, i recently archived a few and prviate others, so i don't know whats actualy there
